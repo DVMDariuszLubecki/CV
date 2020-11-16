@@ -1,0 +1,235 @@
+body
+{
+	margin: 0;
+	background: url("kostka2.jpg");
+	color: #ffffff;
+	font-family: 'Metal Mania', sans-serif;
+	font-size: 20px;
+}
+
+h1.logo
+{
+	font-size: 44px;
+	font-weith: 700;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+
+nav
+{
+	text-align: center;
+	background-color: #1c74b2;
+}
+
+.menu
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 10px;
+	font-size: 18px;
+	min-height: 38px;
+	line-height: 200%;
+}
+
+.menu > li
+{
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-right: 1px dashed #0a2b42;
+}
+
+.menu > li:first-child
+{
+	border-left: 1px dashed #0a2b42;
+}
+
+.menu a
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu a:hover
+{
+	color: #0a2b42;
+	cursor: pointer;
+}
+
+.categories
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	text-align: center;
+	padding: 0;
+}
+
+h1
+{
+	font-size: 44px;
+	font-weight: 400;
+	color: #39a5f1;
+	margin-bottom: 20px;
+}
+
+.pictures a
+{
+	opacity: 0.9;
+}
+
+.pictures a:hover
+{
+	opacity: 1;
+}
+
+.pictures
+
+{
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.pictures img
+{
+	width: 450pX;
+	height: 200pX
+	
+}
+
+figure
+{
+	margin: 8px;
+	padding: 0;
+	
+}
+
+.entries
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 80px;
+	margin-top: 40px;
+}
+
+#newest
+{
+	background-color: #191d21;
+}
+
+.entry
+{
+	background-color: #222931;
+	padding: 10px;
+	text-align: justify;
+	margin-top: 40px;
+	border-radius: 5px;
+}
+
+.entryimg
+{
+	display: inline-block;
+	margin-left: 30px;
+}
+
+.entryimg img
+{
+	width: 300px;
+}
+
+.entrytxt
+{
+	display: inline-block;
+	width: 610px;
+	font-size: 17px;
+	padding-left: 20px;
+}
+
+.socials
+{
+	width:100%;
+	text-align: center;
+	background-color: #191d21;
+}
+
+.socialdivs
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fb
+{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+
+.fb:hover
+{
+	background-color: #4668b3;
+}
+
+.yt
+{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+
+.yt:hover
+{
+	background-color: #d94348;
+}
+
+.tw
+{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+
+.tw:hover
+{
+	background-color: #3095d3;
+}
+
+.gplus
+{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+
+.gplus:hover
+{
+	background-color: #d95333;
+}
+
+.ankieta
+{
+	background-color: grey;
+	color: black;
+	margin: 0;
+	padding: 20px;
+}
+
+.row
+{
+	margin: 20px 10px;
+	
+}
+
+label.probka
+{
+	width: 300px;
+	height: 100px;
+}
